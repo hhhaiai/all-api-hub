@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.26.0](https://github.com/qixing-jk/all-api-hub/compare/v3.25.0...v3.26.0) (2026-03-04)
+
+
+### Features
+
+* **navigation:** add API credential profiles page navigation support ([#557](https://github.com/qixing-jk/all-api-hub/issues/557)) ([08b8af2](https://github.com/qixing-jk/all-api-hub/commit/08b8af298d96564166943ff873b44a4dbb59ea0a))
+
 ## [3.25.0](https://github.com/qixing-jk/all-api-hub/compare/v3.24.0...v3.25.0) (2026-03-02)
 
 
